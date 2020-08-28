@@ -1,3 +1,32 @@
-body {
-    background-color: coral;
-}
+body{
+    /* background-color: aqua; */
+   font-style: italic;
+  }
+  
+  .main{
+  
+    width: 80%;
+    margin: 20PX auto;
+    border: 1px solid blue;
+    padding: 10px 5px 5px 10px;
+    background-color: deeppink;
+  }
+  
+  h2{
+    margin-top: 20px;
+    color: aquamarine;
+  }
+  
+  .encabezado{
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+   box-shadow: 0px 10px 10px gray;
+  }
+  
+  h3{
+    color: crimson;
+  
+  }
